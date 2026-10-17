@@ -11,5 +11,31 @@
             "physics": 79.0,
             "chemistry": 88.0
         }
+    },
+    {
+        "name": "anshul sharma ",
+        "roll_no": "1009",
+        "branch": "Ai",
+        "semester": 1,
+        "subjects": {
+            "physics": 89.0,
+            "math": 86.0,
+            "english": 69.0,
+            "science": 89.0,
+            "hindi ": 94.0
+        }
+    },
+    {
+        "name": "gagandeep rawat",
+        "roll_no": "1038",
+        "branch": "AI",
+        "semester": 1,
+        "subjects": {
+            "math": 89.0,
+            "english": 78.0,
+            "chemistry": 78.0,
+            "hindi": 98.0,
+            "physics ": 92.0
+        }
     }
 ]
